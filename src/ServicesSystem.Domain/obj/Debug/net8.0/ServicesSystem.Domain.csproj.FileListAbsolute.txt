@@ -1,0 +1,11 @@
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\bin\Debug\net8.0\ServicesSystem.Domain.deps.json
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\bin\Debug\net8.0\ServicesSystem.Domain.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\bin\Debug\net8.0\ServicesSystem.Domain.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\obj\Debug\net8.0\ServicesSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\obj\Debug\net8.0\ServicesSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\obj\Debug\net8.0\ServicesSystem.Domain.AssemblyInfo.cs
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\obj\Debug\net8.0\ServicesSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\obj\Debug\net8.0\ServicesSystem.Domain.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\obj\Debug\net8.0\refint\ServicesSystem.Domain.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\obj\Debug\net8.0\ServicesSystem.Domain.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Domain\obj\Debug\net8.0\ref\ServicesSystem.Domain.dll

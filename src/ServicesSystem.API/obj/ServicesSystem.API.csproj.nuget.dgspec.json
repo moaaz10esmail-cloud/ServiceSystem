@@ -1,0 +1,385 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.API\\ServicesSystem.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.API\\ServicesSystem.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.API\\ServicesSystem.API.csproj",
+        "projectName": "ServicesSystem.API",
+        "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.API\\ServicesSystem.API.csproj",
+        "packagesPath": "C:\\Users\\Moaaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Application\\ServicesSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Application\\ServicesSystem.Application.csproj"
+              },
+              "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Infrastructure\\ServicesSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Infrastructure\\ServicesSystem.Infrastructure.csproj"
+              },
+              "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Shared\\ServicesSystem.Shared.csproj": {
+                "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Shared\\ServicesSystem.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Application\\ServicesSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Application\\ServicesSystem.Application.csproj",
+        "projectName": "ServicesSystem.Application",
+        "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Application\\ServicesSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\Moaaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Domain\\ServicesSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Domain\\ServicesSystem.Domain.csproj"
+              },
+              "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Shared\\ServicesSystem.Shared.csproj": {
+                "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Shared\\ServicesSystem.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Domain\\ServicesSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Domain\\ServicesSystem.Domain.csproj",
+        "projectName": "ServicesSystem.Domain",
+        "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Domain\\ServicesSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\Moaaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Infrastructure\\ServicesSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Infrastructure\\ServicesSystem.Infrastructure.csproj",
+        "projectName": "ServicesSystem.Infrastructure",
+        "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Infrastructure\\ServicesSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Moaaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Application\\ServicesSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Application\\ServicesSystem.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Shared\\ServicesSystem.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Shared\\ServicesSystem.Shared.csproj",
+        "projectName": "ServicesSystem.Shared",
+        "projectPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Shared\\ServicesSystem.Shared.csproj",
+        "packagesPath": "C:\\Users\\Moaaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\ServicesProject\\src\\ServicesSystem.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

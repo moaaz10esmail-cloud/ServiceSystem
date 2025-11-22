@@ -1,0 +1,17 @@
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\bin\Debug\net8.0\ServicesSystem.Application.deps.json
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\bin\Debug\net8.0\ServicesSystem.Application.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\bin\Debug\net8.0\ServicesSystem.Application.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\bin\Debug\net8.0\ServicesSystem.Domain.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\bin\Debug\net8.0\ServicesSystem.Shared.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\bin\Debug\net8.0\ServicesSystem.Domain.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\bin\Debug\net8.0\ServicesSystem.Shared.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\ServicesSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\ServicesSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\ServicesSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\ServicesSystem.Application.AssemblyInfo.cs
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\ServicesSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\Services.10BD9120.Up2Date
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\ServicesSystem.Application.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\refint\ServicesSystem.Application.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\ServicesSystem.Application.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\ServicesProject\src\ServicesSystem.Application\obj\Debug\net8.0\ref\ServicesSystem.Application.dll
